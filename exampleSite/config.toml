@@ -55,21 +55,13 @@ url = "terms-conditions"
 name = "FAQ"
 url = "faq"
 [[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[menu.main]]
-name = "Pricing"
-url = "pricing"
-weight = 2
+name = "Services"
+url = ""
+weight = ""
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
-[[menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
