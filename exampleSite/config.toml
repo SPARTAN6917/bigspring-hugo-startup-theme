@@ -56,7 +56,7 @@ name = "FAQ"
 url = "faq"
 [[menu.main]]
 name = "Services"
-url = ""
+url = "services"
 weight = ""
 [[menu.main]]
 name = "Contact"
