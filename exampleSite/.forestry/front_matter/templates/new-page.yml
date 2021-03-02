@@ -15,6 +15,7 @@ pages:
 - exampleSite/content/english/carrier/carrier.md
 - exampleSite/content/english/projects/projects.md
 - exampleSite/content/english/services/services.md
+- exampleSite/content/slovak/carrier/kariera.md
 - exampleSite/content/slovak/contact/kontakt.md
 - exampleSite/content/slovak/projects/projekty.md
 - exampleSite/content/slovak/services/sluzby.md
