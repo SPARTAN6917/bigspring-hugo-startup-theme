@@ -2,6 +2,8 @@
 description = ""
 subtitle = ""
 title = "Projects"
+[menu.main]
+weight = 2
 
 +++
 ### Dodávka IT

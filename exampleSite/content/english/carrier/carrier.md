@@ -2,6 +2,8 @@
 description = ""
 subtitle = ""
 title = "Carrier"
+[menu.main]
+weight = 4
 
 +++
 Kariéra u nás
