@@ -12,6 +12,7 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/english/carrier/carrier.md
 - exampleSite/content/english/projects/projects.md
 - exampleSite/content/english/services/services.md
 - exampleSite/content/slovak/kariera.md
