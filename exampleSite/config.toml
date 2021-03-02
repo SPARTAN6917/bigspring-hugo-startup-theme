@@ -55,6 +55,10 @@ url = "terms-conditions"
 name = "FAQ"
 url = "faq"
 [[menu.main]]
+name = "Carrier"
+url = "carrier"
+weight = ""
+[[menu.main]]
 name = "Projects"
 url = "projects"
 weight = ""
