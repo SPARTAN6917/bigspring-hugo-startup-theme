@@ -55,10 +55,6 @@ url = "terms-conditions"
 name = "FAQ"
 url = "faq"
 [[menu.main]]
-name = "Carrier"
-url = "carrier"
-weight = ""
-[[menu.main]]
 name = "Projects"
 url = "projects"
 weight = ""
@@ -70,6 +66,10 @@ weight = ""
 name = "Contact"
 url = "contact"
 weight = 3
+[[menu.main]]
+name = "Carrier"
+url = "carrier"
+weight = ""
 [params]
 author = "Themefisher"
 contact_form_action = "#"
