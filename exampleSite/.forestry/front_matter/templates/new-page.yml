@@ -13,5 +13,6 @@ fields:
   label: meta description
 pages:
 - exampleSite/content/slovak/kariera.md
+- exampleSite/content/slovak/kontakt.md
 - exampleSite/content/slovak/projekty.md
 - exampleSite/content/slovak/sluzby.md
